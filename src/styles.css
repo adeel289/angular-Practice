@@ -1,0 +1,26 @@
+/* Add application styles & imports to this file! */
+ .boldClass{
+    font-weight:bold;
+}
+
+.italicsClass{
+    font-style:italic;
+}
+
+.colorClass{
+    color:red;
+}
+
+ table {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+thead{
+    border: 1px solid black;
+}
